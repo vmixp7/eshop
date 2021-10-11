@@ -1,0 +1,9 @@
+{
+  "apps" : [{
+    "name": "eshop",
+    "script": "./node_modules/react-scripts/scripts/start.js",
+    "time": false,
+    "merge_logs": true,
+    "watch": true
+  }]
+}
